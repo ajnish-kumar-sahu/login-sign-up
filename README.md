@@ -1,5 +1,6 @@
 # Login and Sign Up Page
 ==========================
+![Screenshot 2024-09-25 011900](https://github.com/user-attachments/assets/2335fb44-cc1c-4e7b-8223-d22bbf9b1ca0)
 
 This project provides a basic login and sign up page with a modern design and animations. The page is built using HTML, CSS, and JavaScript.
 
