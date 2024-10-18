@@ -25,9 +25,6 @@ To use this project, simply open the `index.html` file in a web browser. You can
 
 You can customize the page by modifying the `style.css` file to change the design and layout. You can also modify the `script.js` file to add additional functionality or animations.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## Acknowledgments
 
