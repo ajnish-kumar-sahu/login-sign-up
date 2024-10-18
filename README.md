@@ -29,3 +29,7 @@ You can customize the page by modifying the `style.css` file to change the desig
 ## Acknowledgments
 
 This project uses the Poppins font family from Google Fonts. It also uses various CSS and JavaScript techniques to achieve the desired design and functionality.
+
+## Author
+
+[Ajnish Kumar](https://github.com/ajnish-kumar-sahu)
